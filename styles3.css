@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/*  */
+
+
+.nav-box {
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* nav logo */
+.nav-logo {
+    color: aqua;
+    font-size: 30px;
+
+
+}
+
+.nav-logo:hover {
+    color: brown;
+}
+
+.nav-links {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+
+.nav-link {
+    margin-left: 10px;
+    text-decoration: none;
+}
+
+.nav-link-item {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+
+}
