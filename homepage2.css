@@ -338,9 +338,11 @@ footer .text span a:hover{
           flex-direction: column;
         }
 .About .About-details .right{
-    width: 100%;
+    width: 400px;
     display: flex;
     justify-content: center;
+
+   
 }
 .About .About-details .left{
     width: 90%;
@@ -357,6 +359,7 @@ footer .text span a:hover{
         .About .About-details .right img{
             height: 350px;
             width: 350px;
+           
             
         }
 
